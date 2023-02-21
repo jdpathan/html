@@ -1,0 +1,32 @@
+.abc{
+    background-color: blue;
+    font-size: 35px;
+    color: blueviolet;
+}
+.abc2{
+    background-color: blueviolet;
+    font-size: 40px;
+    color: coral;
+}
+.abc3{
+    background-color: brown;
+    font-size: 45;
+    color: crimson;
+}
+#xyz{
+    font-size: 50px;
+    background-color: aqua;
+    color: blue;
+
+}
+#xyz2{
+  background-color: cadetblue;
+    font-size: 40px;
+  color: chartreuse;
+}
+#xyz3{
+    font-size: 30px;
+    background-color: aquamarine;
+    color: brown;
+
+}
